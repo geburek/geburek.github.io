@@ -43,3 +43,7 @@ I got an e-mail from Bob:
 > Monday is perfect.
 >
 > > When would you like to meet?
+
+## Images!
+
+![Octocat](https://octodex.github.com/images/codercat.jpg)
