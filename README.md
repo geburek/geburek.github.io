@@ -1,1 +1,0 @@
-# geburek.github.io
